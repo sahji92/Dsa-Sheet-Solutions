@@ -3,4 +3,8 @@ public class NSum{
   public static void main(String args[]){
        
   }
+  //check wheather array contains a pair of target sum
+  public static boolean 2sum(){
+
+  }
 }
